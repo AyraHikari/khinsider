@@ -20,7 +20,7 @@ For anime music, [check out `thehylia.py`](https://github.com/obskyr/thehylia).
 
 Carefully put together by [@obskyr](http://twitter.com/obskyr)!
 
-### **[Download it here!](https://github.com/obskyr/khinsider/archive/master.zip)**
+### **[Download it here!](https://github.com/AyraHikari/khinsider/archive/master.zip)**
 
 ## Usage
 
